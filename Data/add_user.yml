@@ -1,0 +1,17 @@
+User:
+#  test_user_001:
+#    name: ""
+#    phone: ""
+#    expect: ""
+  test_user_002:
+    name: "张三"
+    phone: ""
+    expect: "张三"
+#  test_user_003:
+#    name: "李四"
+#    phone: "15951995830"
+#    expect: "李四"
+#  test_user_004:
+#    name: ""
+#    phone: "15234564567"
+#    expect: "1 523-456-4567"
